@@ -1,4 +1,4 @@
-# Paper3analysis
+# NComms2026analysis
 
 This repository contains Python scripts used to generate the figures for the manuscript:
 " Quantifying uncertainty in the perceived risk of unprecedented rainfall."
